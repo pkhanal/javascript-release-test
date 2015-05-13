@@ -1,0 +1,6 @@
+{
+    "name": "kaazing-javascript-client",
+    "version": "5.0.0-1",
+    "ignore": [],
+    "dependencies": {}
+}

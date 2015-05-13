@@ -1,0 +1,22 @@
+{
+    "name": "kaazing-javascript-client",
+    "version": "5.0.0-1",
+    "description": "Files necessary to develop a Javascript-based client for a Kaazing Gateway.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaazing/javascript.client.git"
+    },
+    "keywords": [
+        "kaazing",
+        "gateway",
+        "browser",
+        "client-side"
+    ],
+    "author": "Kaazing",
+    "licenses": [
+        {
+            "type": "Apache 2",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    ]
+}
